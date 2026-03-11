@@ -20,3 +20,19 @@ The README that the AI gave me had extra things that werent usefull, so i delete
 
 ## Final Decision 
 Partial used, with a few modifications. Because It had many extra things that weren't necessary to run the enviroment that i creat, there was a faster way, that is the actual README.
+
+
+## Context
+I wanted IA to create a better .gitignore for me
+
+## Prompts
+i need u to create the .gitignore to IIT414W-LAB00-JOACORW
+
+## Relevant Output
+The IA produce the .gitignore
+
+## Validation 
+I read it and push the proyect to github to see if it works
+
+## Final Decision 
+i used the same code

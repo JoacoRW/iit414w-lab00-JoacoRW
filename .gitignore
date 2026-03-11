@@ -1,0 +1,45 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pyc
+*.pdb
+*.egg
+*.egg-info/
+dist/
+build/
+*.whl
+
+# Jupyter Notebooks
+*.ipynb_checkpoints
+
+# Virtual environments
+.venv/
+venv/
+ENV/
+
+# VS Code
+.vscode/
+
+# Data files
+*.ff1pkl
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# OneDrive
+*.tmp
+~$*
+
+# Cache
+*.cache
+
+# Ignore FastF1 cache
+/data/fastf1_cache/
+
+# Misc
+*.log
+*.bak
+*.swp
